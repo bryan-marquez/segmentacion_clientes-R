@@ -1,0 +1,3 @@
+Terminal
+git config --global user.email "bryan.didier.marquez@gmail.com"
+git config --global user.name "bryan-marquez"
